@@ -81,3 +81,80 @@ Check out the live demo here: [Live Demo Link](https://drive.google.com/file/d/1
 <img width="1079" alt="image" src="https://github.com/user-attachments/assets/af23a107-462b-4b9d-a172-1acdfa68e23e" />
 
 
+# 🌦️ Weather App – A Visually Immersive Forecasting Experience
+
+A beautifully designed weather web app that delivers **real-time updates** with **custom images and ambient sounds** based on the current weather. Built for a more **engaging and interactive** experience beyond plain numbers.
+
+---
+
+## 🔍 Problem Statement
+
+Most weather apps display raw data without emotional or visual appeal. This project aims to enhance the experience through **visual cues, animations, and sound** that reflect the weather, making weather-checking more intuitive and fun.
+
+---
+
+## 💡 Features
+
+✅ Real-time weather updates (temperature, humidity, wind speed, etc.)  
+✅ Location-based search  
+✅ Animated visuals & background sounds for weather conditions  
+✅ Simple, interactive, mobile-friendly UI  
+✅ Custom-designed assets for better immersion
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript  
+- **APIs**: OpenWeatherMap API  
+- **Assets**: Custom images and ambient sounds  
+- *(Optional)* Bootstrap or Tailwind CSS for styling, Axios for API calls  
+
+---
+
+## 🧪 Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/ask11042004/weather-app.git
+cd weather-app
+
+2. Configure the API Key
+Get an API key from OpenWeatherMap
+
+Create a config.js file and paste:
+
+javascript
+Copy
+Edit
+const API_KEY = "your-api-key-here";
+3. Run the App
+Open index.html directly in a browser
+
+(Optional) Start a local server:
+
+bash
+Copy
+Edit
+python -m http.server 8000
+# Visit http://localhost:8000/
+🌱 Future Improvements
+Voice-based weather reports
+
+Dark mode and theme toggles
+
+Extended forecasts (hourly/week-long views)
+
+📺 Live Demo
+🎯 Click to View the Live Demo
+
+<img src="https://github.com/user-attachments/assets/af23a107-462b-4b9d-a172-1acdfa68e23e" alt="Weather App Screenshot" width="800"/>
+👤 Author
+Name: S. Kumaran Aswara
+
+📧 Email: skumaranaswara11042004@gmail.com
+
+🔗 GitHub: ask11042004
+
+📄 License
+This project is licensed under the MIT License.
