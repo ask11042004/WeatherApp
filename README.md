@@ -123,21 +123,15 @@ cd weather-app
 Get an API key from OpenWeatherMap
 
 Create a config.js file and paste:
-
-javascript
-Copy
-Edit
 const API_KEY = "your-api-key-here";
+
 3. Run the App
 Open index.html directly in a browser
 
 (Optional) Start a local server:
-
-bash
-Copy
-Edit
 python -m http.server 8000
 # Visit http://localhost:8000/
+
 🌱 Future Improvements
 Voice-based weather reports
 
@@ -149,12 +143,3 @@ Extended forecasts (hourly/week-long views)
 🎯 Click to View the Live Demo
 
 <img src="https://github.com/user-attachments/assets/af23a107-462b-4b9d-a172-1acdfa68e23e" alt="Weather App Screenshot" width="800"/>
-👤 Author
-Name: S. Kumaran Aswara
-
-📧 Email: skumaranaswara11042004@gmail.com
-
-🔗 GitHub: ask11042004
-
-📄 License
-This project is licensed under the MIT License.
